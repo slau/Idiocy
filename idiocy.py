@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import getopt, sys, pcap, dpkt, re, httplib, urllib
 
-status = 'I browsed twitter insecurely on a public network and all I got was this lousy tweet. http://jonty.co.uk/idiocy-what'
+status = 'poopin\''
 
 def usage(): 
     print >>sys.stderr, 'Usage: %s [-i device]' % sys.argv[0] 
